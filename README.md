@@ -116,6 +116,7 @@ Contact Colin about DoubleMap (Russell and Ryen)
 Wireframe mockup by Monday 3/9 (iOS: Ayush, Android: Riyu/ Andrew)
 Assets list
 
+
 ### Team Structure
 
 #### Mobile iOS
