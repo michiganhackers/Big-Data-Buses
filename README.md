@@ -11,6 +11,9 @@ Will specify the location of all routes to the user. The user will have the opti
 #### Wait times for next bus
 Will specify the predicted wait time to the user.
 
+#### ETA for final destination
+Will calculate a time when you reach destination depending on bus arrival and bus route time.
+
 #### Directions to relevant bus stops
 Users should be able to locate the nearest bus stops that will allow them to travel to their intended destination
 
